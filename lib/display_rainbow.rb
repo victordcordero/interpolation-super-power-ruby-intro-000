@@ -10,3 +10,4 @@ puts "#{colors{5}}"
 puts "#{colors{6}}"
 puts "#{colors{7}}"
 puts "#{colors{8}}"
+end
